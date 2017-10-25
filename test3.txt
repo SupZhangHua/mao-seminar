@@ -1,0 +1,13 @@
+rrrrrrrrrrrrrrrrrrrr
+
+ddddddddddddddddddd
+
+
+
+dddddd
+
+<<<<<<< HEAD
+okome
+=======
+ƒ}ƒOƒ
+>>>>>>> sakana
